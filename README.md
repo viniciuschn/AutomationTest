@@ -8,7 +8,8 @@ First, you will need to install Selenium tools on the machine:
 
 1. [Selenium server](https://bit.ly/2TlkRyu)
 2. [Firefox](https://github.com/mozilla/geckodriver/) and [Chrome](https://sites.google.com/a/chromium.org/chromedriver/) plugins
-3. [Visual Studio](https://visualstudio.microsoft.com/downloads/) (or any other .NET code editor/IDE)
+3. Firefox and Chrome browsers installed on the machine
+4. [Visual Studio](https://visualstudio.microsoft.com/downloads/) (or any other .NET code editor/IDE)
 
 After installing the needed tools, clone this repository to a local folder.
 
